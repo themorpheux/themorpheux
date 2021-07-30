@@ -9,7 +9,8 @@ Linux in depth for cibersecurity purposes (Ethical hacking), Python, javascript
 Any relevant project where I could learn from more experienced people.
 
 - 📫 How to reach me ...
-
+daner.quiros@gmail.com
+themorpheuxx@gmail.com
 
 <!---
 themorpheux/themorpheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
