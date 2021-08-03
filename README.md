@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @themorpheux
 - 👀 I’m interested in ...
-Technology in general, music, books and videogames.
+Cybersecurity, programming, networking
 
 - 🌱 I’m currently learning ...
 Linux in depth for cibersecurity purposes (Ethical hacking), Python, javascript
